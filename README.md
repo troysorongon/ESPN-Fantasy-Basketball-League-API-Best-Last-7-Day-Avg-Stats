@@ -33,7 +33,7 @@ as well as the relevant stats of the players such as:
 With Git in Terminal:
 ```
 git clone https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats.git
-cd
+cd ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats
 ```
 **
 
@@ -54,7 +54,7 @@ pip install pandas
 
 1.**"micro"** into the file (If using Terminal)
 ```
-micro
+micro 
 ```
 2. Fill in the fields that say "Fill in" with your information **OR** uncomment the options to get a user input for those fields
 3. Save File (Ctrl + S **OR** Command + S)
