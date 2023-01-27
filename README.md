@@ -54,7 +54,7 @@ pip install pandas
 
 1.**"micro"** into the file (If using Terminal)
 ```
-micro 
+micro ESPN_Fantasy_API_Best_Last_7_Day_Avg_git.py
 ```
 2. Fill in the fields that say "Fill in" with your information **OR** uncomment the options to get a user input for those fields
 3. Save File (Ctrl + S **OR** Command + S)
@@ -62,7 +62,7 @@ micro
 ## Executing
 On Terminal:
 ```
-python3
+python3 ESPN_Fantasy_API_Best_Last_7_Day_Avg_git
 ```
 
 On IDE:  Run program 
