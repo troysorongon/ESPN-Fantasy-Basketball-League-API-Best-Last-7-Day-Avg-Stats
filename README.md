@@ -64,7 +64,7 @@ On Terminal:
 ```
 python3 ESPN_Fantasy_API_Best_Last_7_Day_Avg_git
 ```
-
+**
 On IDE:  Run program 
 
 **May take a few seconds for the progeam to finish executing due to requesting data from the ESPN API, computation algorithm, and/or CPU speed on your host machine**
