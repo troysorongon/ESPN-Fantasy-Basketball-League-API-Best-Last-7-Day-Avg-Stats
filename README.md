@@ -74,4 +74,8 @@ On IDE:  Run program
 2. Select the amount of players to display 
 3. Make the program faster with better algorithms
 
-##[Discussion][
+## [Discussions](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/discussions)
+If you would like to share any ideas of new implementations or have any comments about the program. please feel free to share in **Discussions**!
+
+## [Issues](
+Please report any issues or bugs that may come across [here](
