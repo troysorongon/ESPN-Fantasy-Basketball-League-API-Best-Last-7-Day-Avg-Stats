@@ -77,5 +77,5 @@ On IDE:  Run program
 ## [Discussions](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/discussions)
 If you would like to share any ideas of new implementations or have any comments about the program. please feel free to share in **Discussions**!
 
-## [Issues](
-Please report any issues or bugs that may come across [here](
+## [Issues](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/issues)
+Please report any issues or bugs that may come across [here](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/issues)
