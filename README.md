@@ -1,6 +1,6 @@
 # ESPN Fantasy Basketball League API Best Last 7 Day Average Stats 
 
-This Python3 program uses ESPN Fantasy Basketball API to show the **stats of the available players/free agents with the Best Last 7 Day Average** stats in your ESPN Fantasy Basketball League. The information of the players and the stats are displayed in a dataframe format. 
+This Python3 program uses ESPN Fantasy Basketball API to show the **stats of the top 50 available players/free agents with the Best Last 7 Day Average** stats in your ESPN Fantasy Basketball League. The information of the players and the stats are displayed in a dataframe format. 
 
 <hr>
 
